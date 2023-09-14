@@ -1,3 +1,4 @@
+//school project for low level programming course
 #include <ncurses.h>
 #include <stdlib.h>
 #include <string.h>
